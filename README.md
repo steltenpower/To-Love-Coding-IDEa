@@ -1,5 +1,13 @@
 # To-Love-Coding-IDEa
-(thoughts that didn't get their own repo (yet))
+(thoughts that didn't get their own repo (yet), like
+[MultiTouchFlowBasedProgramming](https://github.com/steltenpower/MultiTouchFlowBasedProgramming)
+and
+[TangibleJigsawCoding](https://github.com/steltenpower/TangibleJigsawCoding)
+and
+[TableFilteringByDataViz](https://github.com/steltenpower/TableFilteringByDataViz)
+and
+[DataSetAndSketch](https://github.com/steltenpower/DataSetAndSketch)
+)
 
 I reflect on wrestling with code and code tools and imagine functionality that could've helped
 
@@ -143,4 +151,12 @@ In R for example it might help you find where you have used length( ) instead of
 
 https://twitter.com/steltenpower/status/1339206125854593024
 @semanticarts I still point many to your datacentricmanifesto, as their thoughts start on applications. Nowadays I'm also thinking many programming tools should put data front and center more; A carpenter or sculptor is not focusing on their tools primarily either. Thoughts?
+
+Have a view option to 
+
+Temporarily shape formulas (function calls, regular expressions, etc.) as icicle diagrams to show the structure. Replace parts by a variable by dragging it out and that part will automatically be assigned to that variable above the formula. You can also draw it back in.
+
+
+
+
 
