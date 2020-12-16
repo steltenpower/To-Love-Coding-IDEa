@@ -156,3 +156,5 @@ Have a view option to show the namespace of everything, what package/library/fil
 
 Temporarily shape formulas (function calls, regular expressions, etc.) as icicle diagrams to show the structure. Replace parts by a variable by dragging it out and that part will automatically be assigned to that variable above the formula. You can also drag it (back) in.
 
+Text has many more options than just color, which probably can also help code readability.
+
