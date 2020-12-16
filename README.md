@@ -28,7 +28,7 @@ If you ever want to talk to somebody with very strong love/hate relationship wit
 
 https://twitter.com/steltenpower/status/1337354061608267778
 
->Red heartcoding?
+>love coding?
 
 -programming!
 
@@ -42,7 +42,7 @@ https://twitter.com/steltenpower/status/1337354061608267778
 
 >Keyb, mouse?
 
-- + cam, pen, mic, …
+- plus cam, pen, mic, …
 
 >Language?
 
