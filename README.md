@@ -152,11 +152,7 @@ In R for example it might help you find where you have used length( ) instead of
 https://twitter.com/steltenpower/status/1339206125854593024
 @semanticarts I still point many to your datacentricmanifesto, as their thoughts start on applications. Nowadays I'm also thinking many programming tools should put data front and center more; A carpenter or sculptor is not focusing on their tools primarily either. Thoughts?
 
-Have a view option to 
+Have a view option to show the namespace of everything, what package/library/file things come from
 
-Temporarily shape formulas (function calls, regular expressions, etc.) as icicle diagrams to show the structure. Replace parts by a variable by dragging it out and that part will automatically be assigned to that variable above the formula. You can also draw it back in.
-
-
-
-
+Temporarily shape formulas (function calls, regular expressions, etc.) as icicle diagrams to show the structure. Replace parts by a variable by dragging it out and that part will automatically be assigned to that variable above the formula. You can also drag it (back) in.
 
