@@ -1,5 +1,5 @@
 # To-Love-Coding-IDEa
-(thoughts that didn't get their own repo (yet), like
+Some thoughts that didn't get their own repo (yet), like
 [MultiTouchFlowBasedProgramming](https://github.com/steltenpower/MultiTouchFlowBasedProgramming)
 and
 [TangibleJigsawCoding](https://github.com/steltenpower/TangibleJigsawCoding)
@@ -7,7 +7,7 @@ and
 [TableFilteringByDataViz](https://github.com/steltenpower/TableFilteringByDataViz)
 and
 [DataSetAndSketch](https://github.com/steltenpower/DataSetAndSketch)
-)
+) are piled up below:
 
 I reflect on wrestling with code and code tools and imagine functionality that could've helped
 
