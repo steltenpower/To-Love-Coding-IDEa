@@ -1,4 +1,6 @@
-# To-Love-Coding-IDEa (thoughts that didn't get their own repo (yet))
+# To-Love-Coding-IDEa
+(thoughts that didn't get their own repo (yet))
+
 I reflect on wrestling with code and code tools and imagine functionality that could've helped
 
 https://twitter.com/steltenpower/status/1337191471116677120
