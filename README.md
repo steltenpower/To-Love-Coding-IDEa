@@ -162,4 +162,4 @@ Having sensitive or big, or complex data (who doesn't nowadays) makes it harder 
 - Synthesize data (throw in an empty data structure, set a few parameters)
 - Sample (how much do you have, how much do you need, how should it be distributed)
 - Visualize some standard data structures, for example with [TableFilteringByDataViz](https://github.com/steltenpower/TableFilteringByDataViz)
-
+- Some/same GUI to help put constraints (regex, other) on variables. Also learn from frictionless, tidy, FAIR, Linked data.
