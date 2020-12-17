@@ -1,4 +1,6 @@
 # To-Love-Coding-IDEa
+I reflect on wrestling with code and code tools and imagine functionality that could've helped
+
 Some thoughts that didn't get their own repo (yet), like
 [MultiTouchFlowBasedProgramming](https://github.com/steltenpower/MultiTouchFlowBasedProgramming)
 and
@@ -8,9 +10,6 @@ and
 and
 [DataSetAndSketch](https://github.com/steltenpower/DataSetAndSketch)
 ) are piled up below:
-
-I reflect on wrestling with code and code tools and imagine functionality that could've helped
-
 
 https://twitter.com/steltenpower/status/1337191471116677120
 If programming is a lot of sticking one thing into another (assigning, passing,...) and debugging a lot of finding where it doesn't really fit, shouldn't every IDE have at least the option to visualize a specific line in some jigsaw-y way? types, structures, sizes
