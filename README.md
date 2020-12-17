@@ -155,5 +155,11 @@ Have a view option to show the namespace of everything, what package/library/fil
 
 Temporarily shape formulas (function calls, regular expressions, etc.) as icicle diagrams to show the structure. Replace parts by a variable by dragging it out and that part will automatically be assigned to that variable above the formula. You can also drag it (back) in.
 
-Text has many more options than just color, which probably can also help code readability.
+Text has many more options to distinguish things than just color, which probably can also help code readability; size, font, whatever, depending your focus of the moment.
+
+Having sensitive or big, or complex data (who doesn't nowadays) makes it harder to ask for help. Some things that could help when made crazy easy in some GUI:
+- Scramble data (keeps the structure, order and links, but removes the data)
+- Synthesize data (throw in an empty data structure, set a few parameters)
+- Sample (how much do you have, how much do you need, how should it be distributed)
+- Visualize some standard data structures, for example with [TableFilteringByDataViz](https://github.com/steltenpower/TableFilteringByDataViz)
 
