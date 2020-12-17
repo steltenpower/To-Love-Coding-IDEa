@@ -153,7 +153,7 @@ https://twitter.com/steltenpower/status/1339206125854593024
 
 Have a view option to show the namespace of everything, what package/library/file things come from
 
-Temporarily shape formulas (function calls, regular expressions, etc.) as icicle diagrams to show the structure. Replace parts by a variable by dragging it out and that part will automatically be assigned to that variable above the formula. You can also drag it (back) in.
+Temporarily shape formulas (function calls, regular expressions, etc.) as icicle diagrams to show the structure. Replace parts by a variable by dragging it out and that part will automatically be assigned to that variable above the formula. You can also drag it (back) in. And make it easy to switch from traditional passing-into-a-function-as-parameters and the alternative shape of the equivalent with pipe (e.g. in Tidyverse and nowadays also base R)
 
 Text has many more options to distinguish things than just color, which probably can also help code readability; size, font, whatever, depending your focus of the moment.
 
