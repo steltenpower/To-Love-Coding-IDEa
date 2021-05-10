@@ -1,5 +1,6 @@
 # To-Love-Coding-IDEa
 I reflect on wrestling with code and code tools and imagine functionality that could've helped
+<img src="https://repository-images.githubusercontent.com/322005861/4432c680-5848-11eb-8940-14545437ca82">
 
 Some thoughts that didn't get their own repo (yet), like
 [MultiTouchFlowBasedProgramming](https://github.com/steltenpower/MultiTouchFlowBasedProgramming)
