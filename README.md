@@ -56,9 +56,9 @@ https://twitter.com/steltenpower/status/1337354061608267778
 
 -data structure and interface/workflow
 
->R,Python,JS,Go?
+>R(stats),Python,JavaScript,Go?
 
-easier to combine/switch
+Easier to combine/switch. And with AI you should be able to use your own not-fully-consistent pseudo-code-of-the-day and have "did you mean"-options show up.
 
 >debug?
 
@@ -122,7 +122,7 @@ easier to combine/switch
 
 >How much?
 
--Smarter than me colleagues
+-Smarter-than-me colleagues
 
 >How do you get to all this?
 
