@@ -58,11 +58,19 @@ https://twitter.com/steltenpower/status/1337354061608267778
 
 >R(stats),Python,JavaScript,Golang?
 
-Easier to combine/switch. And with AI you should be able to use your own not-fully-consistent pseudo-code-of-the-day and have "did you mean"-options in the actual language your aiming at show up.
+Easier to combine/switch. And with AI you should be able to use your own not-fully-consistent pseudo-code-of-the-day and have "did you mean"-options in the actual languages your aiming at show up.
+
+> Did you just say multiple languages?
+
+As every language has its advantages
+
+> But how do they work together?
+
+Communicate over standard interfaces with standardized data formats. Share in-memory variables. Share function definitions via Wikifunctions. Have WASM-based implementations cooperating within notebooks in your web browser
 
 >debug?
 
--much less (pain)
+-much less (pain), more pair, taking advantage of multi-cursor, and rich person-to-person interaction beyond videochat.
 
 >docs/examples?
 
