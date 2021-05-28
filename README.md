@@ -56,7 +56,7 @@ https://twitter.com/steltenpower/status/1337354061608267778
 
 -data structure and interface/workflow
 
->R(stats),Python,JavaScript,Go?
+>R(stats),Python,JavaScript,Golang?
 
 Easier to combine/switch. And with AI you should be able to use your own not-fully-consistent pseudo-code-of-the-day and have "did you mean"-options in the actual language your aiming at show up.
 
